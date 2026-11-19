@@ -1,0 +1,7 @@
+*.csv
+data/
+.vscode
+.venv
+.ipynb_checkpoints
+df_features.parquet/
+
